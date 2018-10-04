@@ -1,0 +1,6 @@
+﻿  main.cpp
+  ShaderProgram.cpp
+  VertexArray.cpp
+  VertexBuffer.cpp
+z:\year 2\graphics\triangle\legacy\vertexbuffer.cpp(71): error C2471: cannot update program database 'Z:\Year 2\Graphics\triangle\legacy\Debug\vc141.idb'
+  Generating Code...
